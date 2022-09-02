@@ -1,0 +1,2 @@
+colorama==0.4.5
+shodan==1.28.0
